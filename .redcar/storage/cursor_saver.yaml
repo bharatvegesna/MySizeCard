@@ -1,0 +1,15 @@
+--- 
+cursor_positions: 
+  - :path: db/development.sqlite3
+    :cursor_offset: 0
+    :timestamp: 2012-04-07 23:19:51 -05:00
+  - :path: config.ru
+    :cursor_offset: 0
+    :timestamp: 2012-04-07 23:17:20 -05:00
+  - :path: app/views/layouts/application.html.erb
+    :cursor_offset: 0
+    :timestamp: 2012-04-07 23:17:20 -05:00
+  - :path: config/database.yml
+    :cursor_offset: 326
+    :timestamp: 2012-04-11 10:18:24 -05:00
+files_to_retain: 0
